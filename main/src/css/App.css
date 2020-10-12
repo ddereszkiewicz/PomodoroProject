@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+li ul {
+  border-collapse: collapse;
+  border: black 3px solid;
+  width: 150px;
+  padding: 20px 0px;
+  text-align: center;
+}
+/*# sourceMappingURL=App.css.map */
